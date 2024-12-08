@@ -1,0 +1,5 @@
+[workspace]
+resolver = "2"
+members = ["rice01","rice02", "rice03"]
+
+default-run = "rice03"

@@ -1,0 +1,8 @@
+[package]
+name = "rice02"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rice01 = { path = "../rice01" }
+# rice01 = { version = "0.1.0", registry = "kellnr" }
