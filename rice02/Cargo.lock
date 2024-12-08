@@ -5,6 +5,8 @@ version = 4
 [[package]]
 name = "rice01"
 version = "0.1.0"
+source = "sparse+http://localhost:8001/api/v1/crates/"
+checksum = "e38f961b71502db7a67409b75b38436c11b5671062726ff958024bd94570443d"
 
 [[package]]
 name = "rice02"
